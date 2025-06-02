@@ -1,0 +1,17 @@
+body{
+    font-family: Helvetica;
+}
+h1{
+    font-family: 'Times New Roman';
+}
+.final{
+    font-family: 'Times New Roman';
+}
+h4 {
+    color: white;
+    background-color: black;
+}
+button {
+    color:blue;
+    background-color: #ADD8E6;
+}
